@@ -4,138 +4,153 @@ ref: undergraduate_f
 semester: '6'
 timetable:
   - day: "Δευτέρα"
-    time: 11
-    course: "Στοχαστική Ανάλυση Δεδομένων" 
+    time: 9
+    course: stochastic-data-analysis 
     author: alex
-    location: "Εξ αποστάσεως"
+    location: "Εργαστήριο Γαληνός"
   - day: "Δευτέρα"
-    time: 13
+    time: 11
     course: ai
     author: kerman
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
+  - day: "Δευτέρα"
+    time: 13
+    course: Graph-Theory-and-Applications
+    author: karyotis
+    location: "Αίθουσα 2"
   - day: "Δευτέρα"
     time: 15
-    course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+    course: information-retrieval
+    author: mmarag
+    location: "Αίθουσα 3"
+  - day: "Δευτέρα"
+    time: 17
+    course: ccns
     author: dadoyan
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
   - day: "Δευτέρα"
     time: 19
     course: soen
     author: choko
-    location: "Εξ αποστάσεως"
+    location: "Εργαστήριο Αρεταίος"
     
   - day: "Τρίτη"
     time: 9
-    course: pattern-recognition
-    author: vlamos
-    location: "Εξ αποστάσεως"
+    course: ccns
+    author: dadoyan
+    location: "Αίθουσα 3"
   - day: "Τρίτη"
     time: 11
     course: distributed-network-systems
-    author: hristope
-    location: "Εξ αποστάσεως"
+    author: avlonitis
+    location: "Εργαστήριο Αρεταίος"
   - day: "Τρίτη"
     time: 13
-    course: distributed-network-systems
-    author: okon
-    location: "Εξ αποστάσεως"
+    course: Graph-Theory-and-Applications
+    author: karyotis
+    location: "Αίθουσα 2"
   - day: "Τρίτη"
     time: 15
-    course: internet-technologies
-    author: dtsouma
-    location: "Εξ αποστάσεως"
+    course: pattern-recognition
+    author: "Α. Βραχάτης"
+    location: "Αίθουσα 3"
   - day: "Τρίτη"
     time: 17
-    course: "Συστήματα Υποστήριξης Αποφάσεων"
+    course: dss 
     author: exarchos
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
   - day: "Τρίτη"
     time: 19
-    course: "Θεωρία Γραφημάτων και Εφαρμογές"
-    author: karyotis
-    location: "Εξ αποστάσεως"
+    course: bioinformatics
+    author: vlamos
+    location: "Αίθουσα 1"
 
   - day: "Τετάρτη"
     time: 9
-    course: "Θεωρία Γραφημάτων και Εφαρμογές"
-    author: karyotis
-    location: "Εξ αποστάσεως"
+    course: dss 
+    author: exarchos
+    location: "Αίθουσα 1"
   - day: "Τετάρτη"
     time: 11
-    course: "Βιοπληροφορική"
-    author: vlamos
-    location: "Εξ αποστάσεως"
+    course: pattern-recognition
+    author: "Α. Βραχάτης"
+    location: "Αίθουσα 3"
   - day: "Τετάρτη"
     time: 13
     course: ai
     author: kerman
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
   - day: "Τετάρτη"
     time: 15
-    course: "Συστήματα Υποστήριξης Αποφάσεων"
-    author: exarchos
-    location: "Εξ αποστάσεως"
+    course: bioinformatics
+    author: vlamos
+    location: "Αίθουσα 3"
   - day: "Τετάρτη"
     time: 17
-    course: internet-technologies
-    author: dtsouma
-    location: "Εξ αποστάσεως"
+    course: information-retrieval
+    author: mmarag
+    location: "Αίθουσα 1"
   - day: "Τετάρτη"
     time: 19
-    course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
-    author: dadoyan
-    location: "Εξ αποστάσεως"
+    course: internet-technologies
+    author: dtsouma
+    location: "Αμφιθέατρο 1"
 
   - day: "Πέμπτη"
     time: 9
-    course: soen
+    course: ai
     author: riggas
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
   - day: "Πέμπτη"
     time: 11
-    course: information-retrieval
+    course: soen
     author: riggas
-    location: "Εξ αποστάσεως"
+    location: "Εργαστήριο Γαληνός"
   - day: "Πέμπτη"
     time: 13
-    course: "Στοχαστική Ανάλυση Δεδομένων"
-    author: avlon
-    location: "Εξ αποστάσεως"
+    course: internet-technologies
+    author: dtsouma
+    location: "Εργαστήριο Γαληνός"
   - day: "Πέμπτη"
     time: 15
     course: internet-technologies
     author: dtsouma
-    location: "Εξ αποστάσεως"
+    location: "Εργαστήριο Γαληνός"
   - day: "Πέμπτη"
     time: 17
-    course: "Βιοπληροφορική"
-    author: exarchos
-    location: "Εξ αποστάσεως"
+    course: bioinformatics
+    author: katomeris
+    location: "Αίθουσα 2"
+  - day: "Πέμπτη"
+    time: 19
+    course: distributed-network-systems
+    author: hristope
+    location: "Εργαστήριο Γαληνός"
   
   - day: "Παρασκευή"
     time: 9
-    course: "Βιοπληροφορική"
-    author: "Γ. Κατωμέρης"
-    location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 11
-    course: ai
-    author: riggas
-    location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 13
-    course: pattern-recognition
-    author: "Γ. Κατωμέρης"
-    location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 17
     course: distributed-network-systems
     author: hristope
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 1"
+  - day: "Παρασκευή"
+    time: 11
+    course: information-retrieval
+    author: riggas
+    location: "Εργαστήριο Γαληνός"
+  - day: "Παρασκευή"
+    time: 15
+    course: pattern-recognition
+    author: katomeris
+    location: "Εργαστήριο Αρεταίος"
+  - day: "Παρασκευή"
+    time: 17
+    course: soen
+    author: choko
+    location: "Εργαστήριο Αρεταίος"
   - day: "Παρασκευή"
     time: 19
-    course: information-retrieval
-    author: mmarag
-    location: "Εξ αποστάσεως"
+    course: ai
+    author: kerman
+    location: "Εργαστήριο Γαληνός"
 ---
 
